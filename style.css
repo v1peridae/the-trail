@@ -6,7 +6,6 @@
 html {
   overflow-x: hidden;
   position: absolute;
-  max-width: 100%;
 }
 
 body {
@@ -29,7 +28,7 @@ header img {
   transform-origin: center center;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   border: 1px solid #ccc;
-  background-color: #ffffff;
+  background-color: #829460;
   display: flex;
   flex-direction: column;
   justify-content: space-around;
@@ -43,20 +42,18 @@ header img {
 
 .label {
   width: 100%;
-  background-color: aquamarine;
-}
-
-.label h2 {
-  margin-bottom: 20px;
-  font-weight: bold;
+  background-color: #f1e4c3;
+  height: 35px;
 }
 
 .label p {
   font-family: "Inter", sans-serif;
   font-size: 1.5rem;
   font-weight: 700;
-  color: #000000;
   text-align: center;
+  font-weight: bold;
+  color: #829460;
+  margin-top: 3px;
 }
 
 .lead-and-intro-text {
@@ -68,10 +65,23 @@ header img {
 }
 
 .intro-text {
-  width: 45vw;
-  margin-left: 20px;
+  width: 50vw;
+  padding-left: 40px;
   padding-top: 10px;
+  color: #b99470;
 }
+
+.intro-text h2 {
+  margin: 10px;
+  font-size: 30px;
+}
+
+.intro-text li {
+  margin-bottom: 7px;
+  font-weight: 600;
+  font-size: 20px;
+}
+
 .other-polaroids {
   display: flex;
   flex-direction: row;
@@ -84,7 +94,7 @@ header img {
   transform-origin: center center;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   border: 1px solid #ccc;
-  background-color: #ffffff;
+  background-color: #b99470;
   display: flex;
   flex-direction: column;
   justify-content: space-around;
@@ -102,7 +112,7 @@ header img {
   transform-origin: center center;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   border: 1px solid #ccc;
-  background-color: #ffffff;
+  background-color: #90a17d;
   display: flex;
   flex-direction: column;
   justify-content: space-around;
@@ -121,7 +131,7 @@ header img {
   transform-origin: center center;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   border: 1px solid #ccc;
-  background-color: #ffffff;
+  background-color: #90a17d;
   display: flex;
   flex-direction: column;
   justify-content: space-around;
@@ -141,7 +151,7 @@ header img {
   transform-origin: center center;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   border: 1px solid #ccc;
-  background-color: #ffffff;
+  background-color: #b99470;
   display: flex;
   flex-direction: column;
   justify-content: space-around;
@@ -160,7 +170,7 @@ header img {
   transform-origin: center center;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   border: 1px solid #ccc;
-  background-color: #ffffff;
+  background-color: #829460;
   display: flex;
   flex-direction: column;
   justify-content: space-around;
@@ -179,7 +189,7 @@ header img {
   transform-origin: center center;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   border: 1px solid #ccc;
-  background-color: #ffffff;
+  background-color: #829460;
   display: flex;
   flex-direction: column;
   justify-content: space-around;
@@ -199,7 +209,7 @@ header img {
   transform-origin: center center;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   border: 1px solid #ccc;
-  background-color: #ffffff;
+  background-color: #b99470;
   display: flex;
   flex-direction: column;
   justify-content: space-around;
@@ -219,7 +229,7 @@ header img {
   transform-origin: center center;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   border: 1px solid #ccc;
-  background-color: #ffffff;
+  background-color: #829460;
   display: flex;
   flex-direction: column;
   justify-content: space-around;
@@ -239,7 +249,7 @@ header img {
   transform-origin: center center;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   border: 1px solid #ccc;
-  background-color: #ffffff;
+  background-color: #90a17d;
   display: flex;
   flex-direction: column;
   justify-content: space-around;
@@ -258,7 +268,7 @@ header img {
   transform-origin: center center;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   border: 1px solid #ccc;
-  background-color: #ffffff;
+  background-color: #b99470;
   display: flex;
   flex-direction: column;
   justify-content: space-around;
@@ -273,4 +283,27 @@ header img {
 
 .polaroid-img img {
   width: 40vw;
+}
+
+.img1 {
+  position: absolute;
+  right: -30px;
+  top: 1210px;
+  width: 40vw;
+  z-index: -1;
+}
+
+.img2 {
+  position: absolute;
+  right: -30px;
+  top: 340px;
+  width: 40vw;
+  z-index: -1;
+}
+
+.img3 {
+  position: absolute;
+  right: 60px;
+  top: 580px;
+  z-index: -2;
 }
