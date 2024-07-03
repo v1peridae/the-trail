@@ -1,0 +1,66 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #f1e4c3;
+  font-family: "Fraunces", sans-serif;
+}
+
+header {
+  text-align: center;
+}
+header img {
+  text-align: center;
+  align-items: center;
+  width: 60vw;
+  height: auto;
+}
+.lead-polaroid {
+  margin: 20px;
+  margin-left: 0;
+  margin-bottom: 0;
+  width: 45vw;
+  height: 27vh;
+  transform-origin: center center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  position: absolute;
+  border: 1px solid #ccc;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px;
+  transform: rotate(-10deg);
+}
+
+.lead-img img {
+  width: 45vw;
+}
+
+.label {
+  width: 100%;
+  background-color: aquamarine;
+}
+.label p {
+  font-family: "Inter", sans-serif;
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #000000;
+  text-align: center;
+}
+
+.lead-and-intro-text {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.intro-text {
+  width: 45vw;
+  margin: 20px;
+  margin-right: 0;
+  margin-top: 0;
+}
