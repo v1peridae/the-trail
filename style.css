@@ -52,7 +52,6 @@ header img {
   font-weight: 700;
   text-align: center;
   font-weight: bold;
-  color: #829460;
   margin-top: 3px;
 }
 
@@ -95,6 +94,7 @@ header img {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   border: 1px solid #ccc;
   background-color: #b99470;
+  color: #b99470;
   display: flex;
   flex-direction: column;
   justify-content: space-around;
@@ -281,6 +281,537 @@ header img {
   top: 1550px;
 }
 
+#polaroid11 {
+  width: 40vw;
+  height: 24vh;
+  transform-origin: center center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border: 1px solid #ccc;
+  background-color: #b99470;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px;
+  transform: rotate(-10deg);
+  margin-top: 30px;
+  position: absolute;
+  right: 300px;
+  top: 1770px;
+}
+
+#polaroid12 {
+  width: 40vw;
+  height: 24vh;
+  transform-origin: center center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border: 1px solid #ccc;
+  background-color: #b99470;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px;
+  transform: rotate(13deg);
+  margin-top: 30px;
+  position: absolute;
+  right: 60px;
+  top: 1830px;
+}
+
+#polaroid13 {
+  width: 40vw;
+  height: 24vh;
+  transform-origin: center center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border: 1px solid #ccc;
+  background-color: #b99470;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px;
+  transform: rotate(10deg);
+  margin-top: 30px;
+  position: absolute;
+  right: 270px;
+  top: 2050px;
+}
+
+#polaroid14 {
+  width: 40vw;
+  height: 24vh;
+  transform-origin: center center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border: 1px solid #ccc;
+  background-color: #b99470;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px;
+  transform: rotate(-10deg);
+  margin-top: 30px;
+  position: absolute;
+  right: 0px;
+  top: 2100px;
+}
+
+#polaroid15 {
+  width: 40vw;
+  height: 24vh;
+  transform-origin: center center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border: 1px solid #ccc;
+  background-color: #b99470;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px;
+  transform: rotate(-23deg);
+  margin-top: 30px;
+  position: absolute;
+  right: 300px;
+  top: 2340px;
+}
+
+#polaroid16 {
+  width: 40vw;
+  height: 24vh;
+  transform-origin: center center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border: 1px solid #ccc;
+  background-color: #b99470;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px;
+  margin-top: 30px;
+  position: absolute;
+  right: 0px;
+  top: 2350px;
+}
+
+#polaroid17 {
+  width: 40vw;
+  height: 24vh;
+  transform-origin: center center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border: 1px solid #ccc;
+  background-color: #b99470;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px;
+  transform: rotate(-10deg);
+  margin-top: 30px;
+  position: absolute;
+  right: 0px;
+  top: 1550px;
+}
+
+#polaroid18 {
+  width: 40vw;
+  height: 24vh;
+  transform-origin: center center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border: 1px solid #ccc;
+  background-color: #b99470;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px;
+  transform: rotate(-10deg);
+  margin-top: 30px;
+  position: absolute;
+  right: 0px;
+  top: 1550px;
+}
+
+#polaroid19 {
+  width: 40vw;
+  height: 24vh;
+  transform-origin: center center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border: 1px solid #ccc;
+  background-color: #b99470;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px;
+  transform: rotate(-10deg);
+  margin-top: 30px;
+  position: absolute;
+  right: 0px;
+  top: 1550px;
+}
+
+#polaroid20 {
+  width: 40vw;
+  height: 24vh;
+  transform-origin: center center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border: 1px solid #ccc;
+  background-color: #b99470;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px;
+  transform: rotate(-10deg);
+  margin-top: 30px;
+  position: absolute;
+  right: 0px;
+  top: 1550px;
+}
+
+#polaroid21 {
+  width: 40vw;
+  height: 24vh;
+  transform-origin: center center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border: 1px solid #ccc;
+  background-color: #b99470;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px;
+  transform: rotate(-10deg);
+  margin-top: 30px;
+  position: absolute;
+  right: 0px;
+  top: 1550px;
+}
+
+#polaroid22 {
+  width: 40vw;
+  height: 24vh;
+  transform-origin: center center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border: 1px solid #ccc;
+  background-color: #b99470;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px;
+  transform: rotate(-10deg);
+  margin-top: 30px;
+  position: absolute;
+  right: 0px;
+  top: 1550px;
+}
+
+#polaroid23 {
+  width: 40vw;
+  height: 24vh;
+  transform-origin: center center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border: 1px solid #ccc;
+  background-color: #b99470;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px;
+  transform: rotate(-10deg);
+  margin-top: 30px;
+  position: absolute;
+  right: 0px;
+  top: 1550px;
+}
+
+#polaroid24 {
+  width: 40vw;
+  height: 24vh;
+  transform-origin: center center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border: 1px solid #ccc;
+  background-color: #b99470;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px;
+  transform: rotate(-10deg);
+  margin-top: 30px;
+  position: absolute;
+  right: 0px;
+  top: 1550px;
+}
+
+#polaroid25 {
+  width: 40vw;
+  height: 24vh;
+  transform-origin: center center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border: 1px solid #ccc;
+  background-color: #b99470;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px;
+  transform: rotate(-10deg);
+  margin-top: 30px;
+  position: absolute;
+  right: 0px;
+  top: 1550px;
+}
+
+#polaroid26 {
+  width: 40vw;
+  height: 24vh;
+  transform-origin: center center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border: 1px solid #ccc;
+  background-color: #b99470;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px;
+  transform: rotate(-10deg);
+  margin-top: 30px;
+  position: absolute;
+  right: 0px;
+  top: 1550px;
+}
+
+#polaroid27 {
+  width: 40vw;
+  height: 24vh;
+  transform-origin: center center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border: 1px solid #ccc;
+  background-color: #b99470;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px;
+  transform: rotate(-10deg);
+  margin-top: 30px;
+  position: absolute;
+  right: 0px;
+  top: 1550px;
+}
+
+#polaroid28 {
+  width: 40vw;
+  height: 24vh;
+  transform-origin: center center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border: 1px solid #ccc;
+  background-color: #b99470;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px;
+  transform: rotate(-10deg);
+  margin-top: 30px;
+  position: absolute;
+  right: 0px;
+  top: 1550px;
+}
+
+#polaroid29 {
+  width: 40vw;
+  height: 24vh;
+  transform-origin: center center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border: 1px solid #ccc;
+  background-color: #b99470;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px;
+  transform: rotate(-10deg);
+  margin-top: 30px;
+  position: absolute;
+  right: 0px;
+  top: 1550px;
+}
+
+#polaroid30 {
+  width: 40vw;
+  height: 24vh;
+  transform-origin: center center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border: 1px solid #ccc;
+  background-color: #b99470;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px;
+  transform: rotate(-10deg);
+  margin-top: 30px;
+  position: absolute;
+  right: 0px;
+  top: 1550px;
+}
+
+#polaroid31 {
+  width: 40vw;
+  height: 24vh;
+  transform-origin: center center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border: 1px solid #ccc;
+  background-color: #b99470;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px;
+  transform: rotate(-10deg);
+  margin-top: 30px;
+  position: absolute;
+  right: 0px;
+  top: 1550px;
+}
+
+#polaroid32 {
+  width: 40vw;
+  height: 24vh;
+  transform-origin: center center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border: 1px solid #ccc;
+  background-color: #b99470;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px;
+  transform: rotate(-10deg);
+  margin-top: 30px;
+  position: absolute;
+  right: 0px;
+  top: 1550px;
+}
+
+#polaroid33 {
+  width: 40vw;
+  height: 24vh;
+  transform-origin: center center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border: 1px solid #ccc;
+  background-color: #b99470;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px;
+  transform: rotate(-10deg);
+  margin-top: 30px;
+  position: absolute;
+  right: 0px;
+  top: 1550px;
+}
+
+#polaroid34 {
+  width: 40vw;
+  height: 24vh;
+  transform-origin: center center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border: 1px solid #ccc;
+  background-color: #b99470;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px;
+  transform: rotate(-10deg);
+  margin-top: 30px;
+  position: absolute;
+  right: 0px;
+  top: 1550px;
+}
+
+#polaroid35 {
+  width: 40vw;
+  height: 24vh;
+  transform-origin: center center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border: 1px solid #ccc;
+  background-color: #b99470;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px;
+  transform: rotate(-10deg);
+  margin-top: 30px;
+  position: absolute;
+  right: 0px;
+  top: 1550px;
+}
+
+#polaroid36 {
+  width: 40vw;
+  height: 24vh;
+  transform-origin: center center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border: 1px solid #ccc;
+  background-color: #b99470;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px;
+  transform: rotate(-10deg);
+  margin-top: 30px;
+  position: absolute;
+  right: 0px;
+  top: 1550px;
+}
+
+#polaroid37 {
+  width: 40vw;
+  height: 24vh;
+  transform-origin: center center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border: 1px solid #ccc;
+  background-color: #b99470;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px;
+  transform: rotate(-10deg);
+  margin-top: 30px;
+  position: absolute;
+  right: 0px;
+  top: 1550px;
+}
+
+#polaroid38 {
+  width: 40vw;
+  height: 24vh;
+  transform-origin: center center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border: 1px solid #ccc;
+  background-color: #b99470;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px;
+  transform: rotate(-10deg);
+  margin-top: 30px;
+  position: absolute;
+  right: 0px;
+  top: 1550px;
+}
+
 .polaroid-img img {
   width: 40vw;
 }
@@ -305,5 +836,12 @@ header img {
   position: absolute;
   right: 60px;
   top: 580px;
+  z-index: -2;
+}
+
+.img4 {
+  position: absolute;
+  right: 90px;
+  top: 1300px;
   z-index: -2;
 }
