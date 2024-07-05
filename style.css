@@ -943,9 +943,40 @@ header img {
   text-align: center;
   font-weight: bold;
   margin-top: 3px;
-  background-color: #b99470;
   color: #f1e4c3;
   width: 70%;
   margin-bottom: 10px;
-  padding: 5px;
+  padding: 3px;
+  border: 1px solid #b99470;
+}
+
+.project-desc p {
+  font-size: 1rem;
+  font-weight: 700;
+  text-align: center;
+  font-weight: bold;
+  margin-top: 3px;
+  color: #b99470;
+}
+
+#popup2 .project-desc h2 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  text-align: center;
+  font-weight: bold;
+  margin-top: 3px;
+  color: #f1e4c3;
+  width: 70%;
+  margin-bottom: 10px;
+  padding: 3px;
+  border: 1px solid #829460;
+}
+
+popup2 .project-desc p {
+  font-size: 1rem;
+  font-weight: 700;
+  text-align: center;
+  font-weight: bold;
+  margin-top: 3px;
+  color: #829460;
 }
