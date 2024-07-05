@@ -410,7 +410,7 @@ header img {
   margin-top: 30px;
   position: absolute;
   right: 0px;
-  top: 1550px;
+  top: 2620px;
 }
 
 #polaroid18 {
@@ -425,11 +425,12 @@ header img {
   justify-content: space-around;
   align-items: center;
   padding: 10px;
-  transform: rotate(-10deg);
+  transform: rotate(26deg);
   margin-top: 30px;
   position: absolute;
-  right: 0px;
-  top: 1550px;
+  right: 310px;
+  top: 2580px;
+  z-index: -1;
 }
 
 #polaroid19 {
@@ -444,11 +445,11 @@ header img {
   justify-content: space-around;
   align-items: center;
   padding: 10px;
-  transform: rotate(-10deg);
+  transform: rotate(0deg);
   margin-top: 30px;
   position: absolute;
-  right: 0px;
-  top: 1550px;
+  right: 280px;
+  top: 2870px;
 }
 
 #polaroid20 {
@@ -463,11 +464,11 @@ header img {
   justify-content: space-around;
   align-items: center;
   padding: 10px;
-  transform: rotate(-10deg);
+  transform: rotate(27deg);
   margin-top: 30px;
   position: absolute;
-  right: 0px;
-  top: 1550px;
+  right: 20px;
+  top: 2900px;
 }
 
 #polaroid21 {
@@ -485,8 +486,8 @@ header img {
   transform: rotate(-10deg);
   margin-top: 30px;
   position: absolute;
-  right: 0px;
-  top: 1550px;
+  right: 300px;
+  top: 3130px;
 }
 
 #polaroid22 {
@@ -501,11 +502,11 @@ header img {
   justify-content: space-around;
   align-items: center;
   padding: 10px;
-  transform: rotate(-10deg);
+  transform: rotate(-30deg);
   margin-top: 30px;
   position: absolute;
-  right: 0px;
-  top: 1550px;
+  right: 14px;
+  top: 3140px;
 }
 
 #polaroid23 {
@@ -520,11 +521,11 @@ header img {
   justify-content: space-around;
   align-items: center;
   padding: 10px;
-  transform: rotate(-10deg);
+  transform: rotate(3deg);
   margin-top: 30px;
   position: absolute;
-  right: 0px;
-  top: 1550px;
+  right: 300px;
+  top: 3400px;
 }
 
 #polaroid24 {
@@ -539,11 +540,11 @@ header img {
   justify-content: space-around;
   align-items: center;
   padding: 10px;
-  transform: rotate(-10deg);
+  transform: rotate(19deg);
   margin-top: 30px;
   position: absolute;
-  right: 0px;
-  top: 1550px;
+  right: 70px;
+  top: 3470px;
 }
 
 #polaroid25 {
@@ -561,8 +562,8 @@ header img {
   transform: rotate(-10deg);
   margin-top: 30px;
   position: absolute;
-  right: 0px;
-  top: 1550px;
+  right: 10px;
+  top: 3710px;
 }
 
 #polaroid26 {
@@ -577,11 +578,11 @@ header img {
   justify-content: space-around;
   align-items: center;
   padding: 10px;
-  transform: rotate(-10deg);
+  transform: rotate(12deg);
   margin-top: 30px;
   position: absolute;
-  right: 0px;
-  top: 1550px;
+  right: 280px;
+  top: 3700px;
 }
 
 #polaroid27 {
@@ -883,6 +884,7 @@ header img {
 
 .popup-content img {
   width: 40vw;
+  border: #829460 3vw solid;
 }
 
 .popup-content p {
@@ -892,14 +894,7 @@ header img {
   font-weight: bold;
   margin-top: 3px;
   margin-right: 20px;
-}
-
-#popup1 {
   color: #b99470;
-}
-
-#popup1 img {
-  border: #b99470 3vw solid;
 }
 
 .popup-content .close {
@@ -914,7 +909,7 @@ header img {
   text-align: center;
   font-weight: bold;
   margin-top: 3px;
-  background-color: #b99470;
+  background-color: #829460;
   color: #f1e4c3;
   width: 70%;
   margin-left: 10%;
@@ -947,7 +942,7 @@ header img {
   width: 70%;
   margin-bottom: 10px;
   padding: 3px;
-  border: 1px solid #b99470;
+  border: 1px solid #829460;
 }
 
 .project-desc p {
@@ -957,26 +952,4 @@ header img {
   font-weight: bold;
   margin-top: 3px;
   color: #b99470;
-}
-
-#popup2 .project-desc h2 {
-  font-size: 1.5rem;
-  font-weight: 700;
-  text-align: center;
-  font-weight: bold;
-  margin-top: 3px;
-  color: #f1e4c3;
-  width: 70%;
-  margin-bottom: 10px;
-  padding: 3px;
-  border: 1px solid #829460;
-}
-
-popup2 .project-desc p {
-  font-size: 1rem;
-  font-weight: 700;
-  text-align: center;
-  font-weight: bold;
-  margin-top: 3px;
-  color: #829460;
 }
