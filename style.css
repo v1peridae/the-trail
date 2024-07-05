@@ -860,17 +860,17 @@ header img {
 }
 
 .popup-content {
-  background-color: #fefefe;
-  margin: 15% auto;
-  padding: 20px;
-  border: 1px solid #888;
-  width: 80%;
+  background-color: #f1e4c3;
+  margin: 7% auto;
+  width: 84%;
+  position: relative;
+  top: 30%;
 }
 
 .close {
   color: #aaa;
   float: right;
-  font-size: 28px;
+  font-size: 38px;
   font-weight: bold;
 }
 
@@ -882,5 +882,70 @@ header img {
 }
 
 .popup-content img {
-  width: 45vw;
+  width: 40vw;
+}
+
+.popup-content p {
+  font-size: 1rem;
+  font-weight: 700;
+  text-align: center;
+  font-weight: bold;
+  margin-top: 3px;
+  margin-right: 20px;
+}
+
+#popup1 {
+  color: #b99470;
+}
+
+#popup1 img {
+  border: #b99470 3vw solid;
+}
+
+.popup-content .close {
+  padding-right: 10px;
+  padding-top: 3px;
+  margin-bottom: 10px;
+}
+
+.popup-content h2 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  text-align: center;
+  font-weight: bold;
+  margin-top: 3px;
+  background-color: #b99470;
+  color: #f1e4c3;
+  width: 70%;
+  margin-left: 10%;
+}
+
+.pop-up-contents-indiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 20px;
+  margin-left: 10px;
+  padding-top: 30px;
+  padding-left: 2px;
+  padding-right: 10px;
+}
+
+.project-desc {
+  padding-left: 15px;
+  padding-right: 0px;
+  padding-bottom: 20px;
+}
+
+.project-desc h2 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  text-align: center;
+  font-weight: bold;
+  margin-top: 3px;
+  background-color: #b99470;
+  color: #f1e4c3;
+  width: 70%;
+  margin-bottom: 10px;
+  padding: 5px;
 }
